@@ -1,0 +1,86 @@
+[
+  {
+    "nome": "Bárbaro",
+    "atributos": "FOR 16 • DES 14 • CON 16 • INT 8 • SAB 10 • CAR 10",
+    "subclasseRecomendada": "Berserker",
+    "motivo": "Uma opção direta e fácil de entender para quem quer entrar em combate corpo a corpo, usar Fúria e causar bastante dano.",
+    "imagem": "assets/images/barbarian.png"
+  },
+  {
+    "nome": "Bardo",
+    "atributos": "FOR 8 • DES 16 • CON 14 • INT 10 • SAB 10 • CAR 16",
+    "subclasseRecomendada": "Colégio das Espadas",
+    "motivo": "Uma escolha versátil que combina as magias e habilidades sociais do Bardo com boas opções de combate usando armas.",
+    "imagem": "assets/images/bard.png"
+  },
+  {
+    "nome": "Clérigo",
+    "atributos": "FOR 8 • DES 14 • CON 16 • INT 10 • SAB 16 • CAR 10",
+    "subclasseRecomendada": "Domínio da Luz",
+    "motivo": "Combina o suporte tradicional do Clérigo com boas opções ofensivas, incluindo magias de fogo e dano radiante.",
+    "imagem": "assets/images/cleric.png"
+  },
+  {
+    "nome": "Druida",
+    "atributos": "FOR 8 • DES 14 • CON 16 • INT 10 • SAB 16 • CAR 10",
+    "subclasseRecomendada": "Círculo da Lua",
+    "motivo": "É uma escolha intuitiva para quem quer aproveitar bastante a Transformação Selvagem e lutar assumindo formas de animais.",
+    "imagem": "assets/images/druid.png"
+  },
+  {
+    "nome": "Guerreiro",
+    "atributos": "FOR 16 • DES 14 • CON 16 • INT 8 • SAB 10 • CAR 10",
+    "subclasseRecomendada": "Mestre de Batalha",
+    "motivo": "Oferece manobras que aumentam as possibilidades no combate, permitindo causar dano e controlar melhor os inimigos.",
+    "imagem": "assets/images/fighter.png"
+  },
+  {
+    "nome": "Monge",
+    "atributos": "FOR 8 • DES 16 • CON 14 • INT 10 • SAB 16 • CAR 10",
+    "subclasseRecomendada": "Caminho da Mão Aberta",
+    "motivo": "É uma opção focada no combate desarmado, melhorando os golpes do Monge e oferecendo maneiras simples de controlar os adversários.",
+    "imagem": "assets/images/monk.png"
+  },
+  {
+    "nome": "Paladino",
+    "atributos": "FOR 16 • DES 10 • CON 14 • INT 8 • SAB 10 • CAR 16",
+    "subclasseRecomendada": "Juramento da Vingança",
+    "motivo": "É uma escolha ofensiva e fácil de aproveitar, combinando ataques corpo a corpo, Golpe Divino e ferramentas para focar inimigos importantes.",
+    "imagem": "assets/images/paladin.png"
+  },
+  {
+    "nome": "Patrulheiro",
+    "atributos": "FOR 8 • DES 16 • CON 14 • INT 10 • SAB 16 • CAR 10",
+    "subclasseRecomendada": "Perseguidor Sombrio",
+    "motivo": "É excelente para iniciar os combates com vantagem, oferecendo iniciativa, mobilidade e um ataque adicional no primeiro turno.",
+    "imagem": "assets/images/ranger.png"
+  },
+  {
+    "nome": "Ladino",
+    "atributos": "FOR 8 • DES 16 • CON 16 • INT 10 • SAB 14 • CAR 10",
+    "subclasseRecomendada": "Ladrão",
+    "motivo": "É uma opção simples e muito versátil, principalmente por oferecer uma Ação Bônus adicional para movimentação e outras ações.",
+    "imagem": "assets/images/rogue.png"
+  },
+  {
+    "nome": "Feiticeiro",
+    "atributos": "FOR 8 • DES 14 • CON 16 • INT 10 • SAB 10 • CAR 16",
+    "subclasseRecomendada": "Linhagem Dracônica",
+    "motivo": "É uma opção resistente e fácil de entender, melhorando a defesa e permitindo especialização em determinados tipos de dano elemental.",
+    "imagem": "assets/images/sorcerer.png"
+  },
+  {
+    "nome": "Bruxo",
+    "atributos": "FOR 8 • DES 14 • CON 16 • INT 10 • SAB 10 • CAR 16",
+    "subclasseRecomendada": "O Corruptor",
+    "motivo": "É uma escolha direta para quem quer focar em magia ofensiva, oferecendo pontos de vida temporários e acesso a boas magias de dano.",
+    "imagem": "assets/images/warlock.png"
+  },
+  {
+    "nome": "Mago",
+    "atributos": "FOR 8 • DES 14 • CON 16 • INT 16 • SAB 10 • CAR 10",
+    "subclasseRecomendada": "Escola de Evocação",
+    "motivo": "É uma excelente opção para iniciantes que querem usar magias ofensivas, pois ajuda a proteger aliados dos efeitos das próprias magias de Evocação.",
+    "imagem": "assets/images/wizard.png"
+  }
+]
