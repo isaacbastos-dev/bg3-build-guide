@@ -43,6 +43,3 @@ app.*.map.json
 /android/app/debug
 /android/app/profile
 /android/app/release
-
-# Áudio local - não versionar
-assets/audio/golden_brown.mp3
